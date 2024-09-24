@@ -85,5 +85,5 @@ prompt_suffix = "\n This is a word-for-word copy of the same story that is segme
 if __name__ == "__main__":
     dir = ''
     story_name = ''
-    main(, story_name)
+    main(chunk_dir, story_name)
   
